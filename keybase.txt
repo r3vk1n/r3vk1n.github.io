@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/r3vk1n
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://r3vk1n.github.io
+  * I am r3vk1n (https://keybase.io/r3vk1n) on keybase.
+  * I have a public key with fingerprint DC43 9E9E CF1A 6A3D 84C9  2843 05CA D1F0 D986 EF71
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "011612ae7663fe987d5a15cc7033eaa4c68691880e815bf6cfd0c5725fec62a61ad40a",
+      "fingerprint": "dc439e9ecf1a6a3d84c9284305cad1f0d986ef71",
+      "host": "keybase.io",
+      "key_id": "05cad1f0d986ef71",
+      "kid": "011612ae7663fe987d5a15cc7033eaa4c68691880e815bf6cfd0c5725fec62a61ad40a",
+      "uid": "929b236219cc4bde9f145b8bd7f3d819",
+      "username": "r3vk1n"
+    },
+    "service": {
+      "hostname": "r3vk1n.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1667692259,
+  "expire_in": 157680000,
+  "prev": "041d59c7b4e6a6a5bd11c72e6f978de137fe119f33ad7df7d04f4522af1d9fb2",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owJ4nK1Sv2sUQRTeuySIpxGrU5GADqbyDDuzszM7i1iKCELESgks8+PN3ZJk99zd
+OxOOgFW0DFeIYKGlIAoWAf8CGwvBQv8CCy2shFRBZxJTiK3TDPPe933ve2/ezvxM
+0OkG40fq49ze99aHbyrQdu/CBKnSbKJ0glbh4II1A3WTreYGpSjEmGEigTMWWRAJ
+N7HEsdY8jCKQkmqWMIGTJIQEx8oybU2oY05iC5oRybA0NJSoh2xe9KEaVnnROFmj
+aSRAgLZYMhmZhGpBEhqFsZYG29CIhIHl2BEHZe0ZzpySNSzlpYu5R3Zo71/8f/Y9
+OpATRCgSMYKF1lQZEBbTWCXKcOvMY+GBNVSFXAeHrqLxKi7QVg+52DjX4Mfq+/gr
+v9TPm8FIHXY0rMqm1OWayw6aZlinnt1sDj38Aajsj1Cm8sK4STrGGKo6LwuUYofU
+Te6VMWOcCUJi0UOwMcwryHKPiDlLQnd8HRj78VBs4ntCc0WBuR+IlcFYcwLMCp4Y
+wBG3gLGwUSQNN5abkFoaEyItNsIqgnxv94sSpdT5lH2nWef9QjajCtBW5/FoNuh2
+goXuxdkzZ9P+l+Vj+5/fq2dHyzfX9psXdI6fPoq0Z4Jfd640D6fFxmKrd3txsnL3
+yfWfr06de3dz5esNfnK9Ta+2ghdvXu/O71x6ujvdf/l2upxdO5Ftf3q+vXALX+79
+0Oc7vwFwfeaW
+=u1ng
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/r3vk1n
+
+==================================================================
